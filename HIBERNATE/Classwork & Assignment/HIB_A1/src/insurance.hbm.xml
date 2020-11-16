@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+ "-//Hibernate Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+ <class name="Insurance" table="insurance">
+ 	<id name="policyNo" column="policyNo" type="int"></id>
+ 	<property name="name" column="name" type="string"/>
+ 	<property name="tenure" column="tenure" type="int"/>
+ 	<property name="amountToPay" column="amountToPay" type="int"/>
+ </class>
+</hibernate-mapping>

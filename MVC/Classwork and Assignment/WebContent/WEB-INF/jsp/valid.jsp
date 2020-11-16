@@ -1,0 +1,18 @@
+<html>
+	<body>
+		<table>
+			<tr>
+				<th>Id</th>
+				<th>Name</th>
+				<th>Department</th>
+				<th>Designation</th>
+			</tr>
+			<tr>
+				<td>${id}</td>
+				<td>${name}</td>
+				<td>${dept}</td>
+				<td>${desig}</td>
+			</tr>
+		</table>
+	</body>
+</html>

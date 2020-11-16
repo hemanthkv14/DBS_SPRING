@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/com.springsource.javax.validation-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/hibernate-validator-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-aop-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-aspects-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-beans-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-context-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-context-support-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-core-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-expression-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-instrument-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-instrument-tomcat-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-jdbc-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-jms-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-messaging-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-orm-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-oxm-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-tx-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-web-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-webmvc-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-webmvc-portlet-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-websocket-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

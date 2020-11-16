@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+ "-//Hibernate Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+ <class name="Student" table="student_one_to_one">
+ 	<id name="id" type="int" column="id"></id>
+ 	<property name="name" column="name" type="string"/>
+ 	<property name="age" column="age" type="int"/>
+ 	<property name="branch" column="branch" type="string"/>
+ </class>
+</hibernate-mapping>

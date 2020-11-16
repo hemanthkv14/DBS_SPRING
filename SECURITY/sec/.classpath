@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_221">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/com.springsource.javax.validation-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/hibernate-validator-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-aop-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-aspects-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-beans-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-context-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-context-support-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-core-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-expression-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-instrument-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-instrument-tomcat-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-jdbc-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-jms-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-messaging-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-orm-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-oxm-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-tx-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-web-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-webmvc-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-webmvc-portlet-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/DBS_Charan/Spring/Spring MVC jars/spring-websocket-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/spring-security-web-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/spring-security-config-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-acl-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-aspects-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-cas-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-config-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-core-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-crypto-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-data-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-ldap-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-messaging-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-openid-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-remoting-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-taglibs-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-test-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heman/OneDrive/Desktop/Spring/JAR/spring-security-web-4.2.13.RELEASE.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
